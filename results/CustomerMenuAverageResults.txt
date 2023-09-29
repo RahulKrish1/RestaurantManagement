@@ -1,0 +1,15 @@
+Orders for Curry,Steph 40.5
+Menu #1:  46.5
+Item #:1 0.0 paid out of 10.0
+Item #:2 0.0 paid out of 20.0
+Item #:3 16.5 paid out of 16.5
+Item #:4 30.0 paid out of 30.0
+Total Price: 46.5
+Total Price Possible: 76.5
+Menu #2:  34.5
+Item #:1 8.0 paid out of 8.0
+Item #:2 0.0 paid out of 22.0
+Item #:3 11.5 paid out of 11.5
+Item #:4 15.0 paid out of 15.0
+Total Price: 34.5
+Total Price Possible: 56.5

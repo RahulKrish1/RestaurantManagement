@@ -1,0 +1,12 @@
+Report for Curry,Steph
+Item #:1 0.0 paid out of 8.5
+Item #:2 6.0 paid out of 6.0
+Item #:3 0.0 paid out of 7.5
+Total Price: 6.0
+Total Price Possible: 22.0
+Report for James,LeBron
+Item #:1 0.0 paid out of 8.5
+Item #:2 6.0 paid out of 6.0
+Item #:3 7.5 paid out of 7.5
+Total Price: 13.5
+Total Price Possible: 22.0

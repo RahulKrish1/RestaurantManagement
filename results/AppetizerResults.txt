@@ -1,0 +1,9 @@
+Item: Shrimp Popcorn
+Price: 6.0
+Item: Cheese Curds
+Price: 7.5
+Item: Chips and Salsa
+Price: 9.25
+Price for Curry,Steph 15.25
+Price for James,LeBron 16.75
+Price for Durant,Kevin 13.5

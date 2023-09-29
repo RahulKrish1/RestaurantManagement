@@ -1,0 +1,18 @@
+Successfully Serialized
+Successfully Restored
+Item: Ribeye Steak
+Price: 16.5
+Item: Chicken Burger
+Price: 12.75
+Item: Alfredo Pasta
+Price: 18.0
+Item: Lobster Ravioli
+Price: 22.5
+After restoringItem: Ribeye Steak
+Price: 16.5
+Item: Chicken Burger
+Price: 12.75
+Item: Alfredo Pasta
+Price: 18.0
+Item: Lobster Ravioli
+Price: 22.5

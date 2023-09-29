@@ -1,0 +1,83 @@
+Successfully Serialized
+Successfully Restored
+Report for Curry,Steph Menu # 1
+Item #:1 0.0 paid out of 10.0
+Item #:2 0.0 paid out of 20.0
+Item #:3 16.5 paid out of 16.5
+Item #:4 30.0 paid out of 30.0
+Total Price: 46.5
+Total Price Possible: 76.5
+
+Report for James,LeBron Menu # 1
+Item #:1 10.0 paid out of 10.0
+Item #:2 0.0 paid out of 20.0
+Item #:3 16.5 paid out of 16.5
+Item #:4 30.0 paid out of 30.0
+Total Price: 56.5
+Total Price Possible: 76.5
+
+Report for Durant,Kevin Menu # 1
+Item #:1 10.0 paid out of 10.0
+Item #:2 20.0 paid out of 20.0
+Item #:3 16.5 paid out of 16.5
+Item #:4 0.0 paid out of 30.0
+Total Price: 46.5
+Total Price Possible: 76.5
+
+Report for Curry,Steph Menu # 2
+Item #:1 0.0 paid out of 5.5
+Item #:2 11.25 paid out of 11.25
+Item #:3 23.5 paid out of 23.5
+Item #:4 0.0 paid out of 14.0
+Total Price: 34.75
+Total Price Possible: 54.25
+
+Report for James,LeBron Menu # 2
+Item #:1 5.5 paid out of 5.5
+Item #:2 11.25 paid out of 11.25
+Item #:3 23.5 paid out of 23.5
+Item #:4 0.0 paid out of 14.0
+Total Price: 40.25
+Total Price Possible: 54.25
+
+Report for Durant,Kevin Menu # 2
+Item #:1 0.0 paid out of 5.5
+Item #:2 11.25 paid out of 11.25
+Item #:3 23.5 paid out of 23.5
+Item #:4 14.0 paid out of 14.0
+Total Price: 48.75
+Total Price Possible: 54.25
+
+Report for Curry,Steph Menu # 3
+Item #:1 0.0 paid out of 7.25
+Item #:2 0.0 paid out of 8.25
+Item #:3 18.75 paid out of 18.75
+Item #:4 0.0 paid out of 13.25
+Total Price: 18.75
+Total Price Possible: 47.5
+
+Report for James,LeBron Menu # 3
+Item #:1 7.25 paid out of 7.25
+Item #:2 0.0 paid out of 8.25
+Item #:3 0.0 paid out of 18.75
+Item #:4 13.25 paid out of 13.25
+Total Price: 20.5
+Total Price Possible: 47.5
+
+Report for Durant,Kevin Menu # 3
+Item #:1 0.0 paid out of 7.25
+Item #:2 8.25 paid out of 8.25
+Item #:3 18.75 paid out of 18.75
+Item #:4 0.0 paid out of 13.25
+Total Price: 27.0
+Total Price Possible: 47.5
+
+Minimum for Menu # 1 46.5
+Maximum for Menu # 1 56.5
+Average for Menu # 1 49
+Minimum for Menu # 2 34.75
+Maximum for Menu # 2 48.75
+Average for Menu # 2 41
+Minimum for Menu # 3 18.75
+Maximum for Menu # 3 27.0
+Average for Menu # 3 22

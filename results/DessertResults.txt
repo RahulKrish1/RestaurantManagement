@@ -1,0 +1,6 @@
+Item: Chocolate Ice Cream
+Price: 8.5
+Item: Red Velvet Cake
+Price: 6.0
+Item: Apple Pie
+Price: 7.5
